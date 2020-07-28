@@ -15,7 +15,4 @@ Usage
 	`git clone https://github.com/n4vn337/maiAutomation`
 	`cd maiAutomation`
 	`chmod +x script.sh`
-        `./script.sh`
-
-  
-  enter the ip when asked for and everthing automates
+        `./script.sh ip-addr`
