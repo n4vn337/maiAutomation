@@ -1,4 +1,4 @@
-![picture](img/Untitled.png)
+![picture](Untitled.png)
 # maiAutomation
 Scans included
   1. nmap with -sC -sV and -oA flags
